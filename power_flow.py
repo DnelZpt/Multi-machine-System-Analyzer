@@ -1,8 +1,8 @@
 """
 This module get the power-flow for a given Electrical Power System
 
-Author: Daniel Zapata Yarce - Cód. 1004965048
-Electrical Systems Stability - Technological University
+Author: Daniel Zapata 
+Electrical Systems Stability
 April 2023
 """
 import pandas as pd
