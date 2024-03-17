@@ -2,8 +2,8 @@
 This module calculates the oscillation modes for the IEEE-WSCC multimachine System
 for a 9 nodes system.
 
-Author: Daniel Zapata Yarce - Cód. 1004965048
-Electric Systems Stability - Technological University
+Author: Daniel Zapata 
+Electric Systems Stability
 April 2023
 """
 
