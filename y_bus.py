@@ -1,8 +1,8 @@
 """
 This module creates the Ybus matrix from a given numpy array that contains the PS information
 
-Author: Daniel Zapata Yarce - Cód. 1004965048
-Electrical Systems Stability - Technological University
+Author: Daniel Zapata Yarce 
+Electrical Systems Stability
 April 2023
 """
 
